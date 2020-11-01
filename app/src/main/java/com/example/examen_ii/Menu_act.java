@@ -74,6 +74,8 @@ public class Menu_act extends AppCompatActivity {
 
         clientes.add("Axel");
         clientes.add("Roxana");
+        clientes.add("Betzabe");
+        clientes.add("Matias");
 
         creditos.add("hipotecario");
         creditos.add("automotriz");
