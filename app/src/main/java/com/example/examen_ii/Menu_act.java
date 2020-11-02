@@ -72,14 +72,14 @@ public class Menu_act extends AppCompatActivity {
         ArrayList<String> clientes = new ArrayList<String>();
         ArrayList<String> creditos = new ArrayList<String>();
 
-        clientes.add("Axel");
-        clientes.add("Roxana");
+        // Se agregan clientes para efecto Git
 
-        //INICIO COMENTARIO Se agregan clientes para GIT
         clientes.add("Betzabe");
         clientes.add("Matias");
 
-        //FIN COMENTARIO Se agregan clientes para GIT
+
+        clientes.add("Axel");
+        clientes.add("Roxana");
 
 
         creditos.add("hipotecario");
