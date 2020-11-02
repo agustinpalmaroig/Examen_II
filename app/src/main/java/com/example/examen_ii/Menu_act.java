@@ -74,8 +74,13 @@ public class Menu_act extends AppCompatActivity {
 
         clientes.add("Axel");
         clientes.add("Roxana");
+
+        //INICIO COMENTARIO Se agregan clientes para GIT
         clientes.add("Betzabe");
         clientes.add("Matias");
+
+        //FIN COMENTARIO Se agregan clientes para GIT
+
 
         creditos.add("hipotecario");
         creditos.add("automotriz");
